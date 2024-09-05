@@ -1,17 +1,12 @@
-# Hi there 👋
-## Tech Stack
-<img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+# Habilithm Android 😃
+## 💪Skills
+**Platforms & Languages**
 
-## Android Skill
-|Category|Skill|
-|------|---|
-|Language|<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>|
-|Architecture|<img src="https://img.shields.io/badge/MVC-f54646?style=flat&logo=MVC&logoColor=white"/> <img src="https://img.shields.io/badge/MVVM-dd9933?style=flat&logo=MVVM&logoColor=white"/>|
-|Jetpack|<img src="https://img.shields.io/badge/ViewModel-eeee22?style=flat&logo=ViewModel&logoColor=white"/> <img src="https://img.shields.io/badge/DataBinding-81d742?style=flat&logo=DataBinding&logoColor=white"/> <img src="https://img.shields.io/badge/LiveData-1e73be?style=flat&logo=LiveData&logoColor=white"/> <img src="https://img.shields.io/badge/Lifecycles-81d742?style=flat&logo=Lifecycles&logoColor=white"/>|
-|Local DB|<img src="https://img.shields.io/badge/Room-7F52FF?style=flat&logo=Room&logoColor=white"/>
-|Networking|<img src="https://img.shields.io/badge/Retrofit-f54646?style=flat&logo=Retrofit&logoColor=white"/>
-|Image|<img src="https://img.shields.io/badge/Glide-dd9933?style=flat&logo=Java&logoColor=white"/>
-|Asynchronous|<img src="https://img.shields.io/badge/Coroutines-f2f546?style=flat&logo=Coroutines&logoColor=white"/>
+<img src="https://img.shields.io/badge/android-34a853?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/java-3873a6?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/xml-0367a6?style=for-the-badge&logo=xml&logoColor=white"/>
+
+**Tools**
+
+<img src="https://img.shields.io/badge/android%20studio-3ddc84?style=for-the-badge&logo=android%20studio&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <!--
 **habilithm97/habilithm97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
