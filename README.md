@@ -11,7 +11,6 @@
 ![MVVM](https://img.shields.io/badge/MVVM-FFB74D?style=for-the-badge)
 ![ViewModel](https://img.shields.io/badge/ViewModel-BA68C8?style=for-the-badge)
 ![Repository](https://img.shields.io/badge/Repository-4DD0E1?style=for-the-badge)
-![MVC](https://img.shields.io/badge/MVC-64B5F6?style=for-the-badge)
 
 ### Jetpack
 ![DataBinding](https://img.shields.io/badge/ViewBinding-FFD54F?style=for-the-badge)
