@@ -1,9 +1,8 @@
-# 📱 Habilithm Android 😀
+# Habilithm 😀
 
-## 📚 Skills
+## 📚 Android Skills
 
 ### Languages
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logo=xml&logoColor=white)
 
