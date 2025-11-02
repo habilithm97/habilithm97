@@ -8,19 +8,18 @@
 ![XML](https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logo=xml&logoColor=white)
 
 ### Architecture
-![MVVM](https://img.shields.io/badge/MVVM-FFB74D?style=for-the-badge)
-![ViewModel](https://img.shields.io/badge/ViewModel-BA68C8?style=for-the-badge)
-![Repository](https://img.shields.io/badge/Repository-4DD0E1?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-FFA726?style=for-the-badge)
+![Repository](https://img.shields.io/badge/Repository-29B6F6?style=for-the-badge)
 
 ### Jetpack
-![DataBinding](https://img.shields.io/badge/ViewBinding-FFD54F?style=for-the-badge)
-![Room](https://img.shields.io/badge/Room-81C784?style=for-the-badge)
-![Lifecycle](https://img.shields.io/badge/Lifecycle-F06292?style=for-the-badge)
-![LiveData](https://img.shields.io/badge/LiveData-F48FB1?style=for-the-badge)
-![Fragment](https://img.shields.io/badge/Fragment-64B5F6?style=for-the-badge)
-![Preference](https://img.shields.io/badge/Preference-4FC3F7?style=for-the-badge)
-![Security](https://img.shields.io/badge/Security-A1887F?style=for-the-badge)
+![Lifecycle](https://img.shields.io/badge/Lifecycle-FF7043?style=for-the-badge)
+![LiveData](https://img.shields.io/badge/LiveData-26A69A?style=for-the-badge)
+![Room](https://img.shields.io/badge/Room-7E57C2?style=for-the-badge)
+![ViewModel](https://img.shields.io/badge/ViewModel-EC407A?style=for-the-badge)
+![Fragment](https://img.shields.io/badge/Fragment-42A5F5?style=for-the-badge)
 
-### Utilities / Tools
-![Coroutines](https://img.shields.io/badge/Coroutines-4DD0E1?style=for-the-badge)
-![KSP](https://img.shields.io/badge/KSP-9575CD?style=for-the-badge)
+### Tools
+![View Binding](https://img.shields.io/badge/View%20Binding-42A5F5?style=for-the-badge)
+![Coroutine](https://img.shields.io/badge/Coroutine-FF6D00?style=for-the-badge)
+![KSP](https://img.shields.io/badge/KSP-6A1B9A?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
