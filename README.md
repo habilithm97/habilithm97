@@ -19,6 +19,8 @@
 ![ViewPager](https://img.shields.io/badge/ViewPager-AB47BC?style=for-the-badge)
 ![View Binding](https://img.shields.io/badge/View%20Binding-26C6DA?style=for-the-badge)
 
-### Tools
+### Asynchronous
 ![Coroutine](https://img.shields.io/badge/Coroutine-29B6F6?style=for-the-badge)
+
+### Backend / BaaS
 ![Firebase](https://img.shields.io/badge/Firebase-EC407A?style=for-the-badge)
