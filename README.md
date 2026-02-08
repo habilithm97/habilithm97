@@ -29,3 +29,8 @@
 
 ### Backend / BaaS
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Security
+![Keystore](https://img.shields.io/badge/Keystore-3DDC84?style=for-the-badge)
+![AES%2FGCM](https://img.shields.io/badge/AES%2FGCM-00BCD4?style=for-the-badge)
+![Encryption](https://img.shields.io/badge/Encryption-FFC107?style=for-the-badge)
