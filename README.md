@@ -32,5 +32,5 @@
 
 ### Security
 ![Android Keystore](https://img.shields.io/badge/Android%20Keystore-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![AES/GCM Encryption](https://img.shields.io/badge/AES%2FGCM%20Encryption-00BCD4?style=for-the-badge)
+![AES/GCM](https://img.shields.io/badge/AES%2FGCM-00BCD4?style=for-the-badge)
 ![Data Encryption](https://img.shields.io/badge/Data%20Encryption-FFC107?style=for-the-badge)
