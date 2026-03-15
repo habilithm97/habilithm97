@@ -10,7 +10,7 @@
 ![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-1E88E5?style=for-the-badge)
 
 ### Android Jetpack
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Compose](https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Fragment](https://img.shields.io/badge/Fragment-3DDC84?style=for-the-badge)
 ![RecyclerView](https://img.shields.io/badge/RecyclerView-039BE5?style=for-the-badge)
 ![ViewPager2](https://img.shields.io/badge/ViewPager2-8E24AA?style=for-the-badge)
