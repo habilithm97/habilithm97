@@ -7,7 +7,7 @@
 
 ### Architecture
 ![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge)
-![Repository](https://img.shields.io/badge/Repository-1E88E5?style=for-the-badge)
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-1E88E5?style=for-the-badge)
 
 ### Android Jetpack
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
